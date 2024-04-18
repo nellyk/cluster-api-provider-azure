@@ -114,8 +114,8 @@ agentpools:
     nodecount: 5
     osDiskSizeGB: 100
     additionalTags:
-     - key: test
-       value: test
+     - key: department
+       value: finance
     #  To enable availability zones, uncomment the following lines and set the availability zones
     # availabilityZones: 
     #   - "1"
