@@ -65,7 +65,5 @@ spec:
         kind: AzureManagedMachinePool
         name: {{ $agentpoolsname }}
         namespace: {{ $.Release.Namespace }}
-      version: {{ $.Values.controlplane.kubernetes_version }}
 ---
 {{- end }}
-
