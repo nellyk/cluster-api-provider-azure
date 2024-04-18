@@ -3,6 +3,17 @@ entries:
   azure-managed-cluster:
   - apiVersion: v2
     appVersion: 1.16.0
+    created: "2024-04-18T14:54:47.516662679Z"
+    description: A Helm chart to deploy an AKS cluster via the cluster-api-provider-azure
+      ManagedCluster
+    digest: 353cc642e6ca1b0ce82526671b7bdcca289f0f551b46b6f40b05598a5bedb8b6
+    name: azure-managed-cluster
+    type: application
+    urls:
+    - https://github.com/nellyk/cluster-api-provider-azure/releases/download/azure-managed-cluster-0.2.2/azure-managed-cluster-0.2.2.tgz
+    version: 0.2.2
+  - apiVersion: v2
+    appVersion: 1.16.0
     created: "2024-04-18T14:42:50.400884721Z"
     description: A Helm chart to deploy an AKS cluster via the cluster-api-provider-azure
       ManagedCluster
@@ -12,4 +23,4 @@ entries:
     urls:
     - https://github.com/nellyk/cluster-api-provider-azure/releases/download/azure-managed-cluster-0.2.1/azure-managed-cluster-0.2.1.tgz
     version: 0.2.1
-generated: "2024-04-18T14:42:50.400897274Z"
+generated: "2024-04-18T14:54:47.516675282Z"
