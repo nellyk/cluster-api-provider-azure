@@ -115,7 +115,7 @@ agentpools:
     osDiskSizeGB: 100
     additionalTags:
      - key: department
-       value: finance
+       value: test
     #  To enable availability zones, uncomment the following lines and set the availability zones
     # availabilityZones: 
     #   - "1"
