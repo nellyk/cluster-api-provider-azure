@@ -116,6 +116,7 @@ agentpools:
     additionalTags:
      - key: test
        value: test
+   #  To enable availability zones, uncomment the following lines and set the availability zones
    #  availabilityZones: 
    #   - "1"
    #   - "2"
